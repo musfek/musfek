@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Musfek</h1>
 <h3 align="center">A passionate Backend developer from Bangladesh</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=musfek&label=Profile%20views&color=0e75b6&style=flat" alt="musfek" /> </p>
-
+<!---<p align="left"> <img src="https://komarev.com/ghpvc/?username=musfek&label=Profile%20views&color=0e75b6&style=flat" alt="musfek" /> </p> --->
 
 
 - 🔭 I’m currently working on [ShareTrip B2B](https://b2b.sharetrip.net/)
