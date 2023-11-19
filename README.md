@@ -20,8 +20,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=musfek&show_icons=true&locale=en&layout=compact" alt="musfek" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=musfek&show_icons=true&locale=en" alt="musfek" /></p>
-
-
-### :fire: My Stats :
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=musfek&theme=transparent)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=musfek)](https://git.io/streak-stats)
