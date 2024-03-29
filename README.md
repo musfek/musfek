@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Musfek</h1>
-<h3 align="center">A passionate Backend developer from Bangladesh</h3>
+<h3 align="center">A passionate Backend developer</h3>
 <h4 align="center">
 Software engineer proficient in PHP (Yii), MySQL optimization, Redis caching, Docker, RabbitMQ, microservices, REST API, and MongoDB. Crafting scalable solutions with a focus on business impact. Open to collaboration and dedicated to writing clean, efficient code.</h4>
 
